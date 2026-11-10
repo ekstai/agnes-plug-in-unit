@@ -1,0 +1,13 @@
+{
+  "name": "壁纸工坊",
+  "slug": "wallpaper-studio",
+  "version": "1.0.0",
+  "description": "为 Agnes 主界面提供静态/动态壁纸：本地图片、GIF/WebP 动图、SVG/AVIF/BMP 与 MP4/WebM/OGG/MOV 视频，支持链接、填充方式、透明度、模糊和遮罩。",
+  "author": "safe",
+  "category": "style",
+  "icon": "Palette",
+  "keywords": ["壁纸", "wallpaper", "动态壁纸", "外观"],
+  "capabilities": ["ui.wallpaper"],
+  "entry": "README.md",
+  "license": "MIT"
+}
